@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T14:22:25.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="axHEbwBUdQXjjcEreBKc" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T16:01:09.061Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ZtjGnYh7EH-x3IVuWcWz" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Gruppe A">
-    <mxGraphModel dx="780" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1847" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="wHxHnI73WqNq7-gCSU7N-2" value="Bibi Mitarbeiter/in" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="40" width="30" height="60" as="geometry" />
+        <mxCell id="5VB_H_C6yEA49fqEJ_je-0" value="Bibi Mitarbeiter/in" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-30" y="130" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wHxHnI73WqNq7-gCSU7N-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="5VB_H_C6yEA49fqEJ_je-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="735" y="130" as="targetPoint" />
-            <mxPoint x="735" y="240" as="sourcePoint" />
+            <mxPoint x="-15" y="240" as="targetPoint" />
+            <mxPoint x="-15" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wHxHnI73WqNq7-gCSU7N-3" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="720" y="260" width="30" height="60" as="geometry" />
+        <mxCell id="5VB_H_C6yEA49fqEJ_je-2" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-30" y="370" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wHxHnI73WqNq7-gCSU7N-5" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; line-height: 1.2;&quot;&gt;Arbeitsplätze&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;verwaltung&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;horizontal=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="200" y="40" width="280" height="280" as="geometry" />
+        <mxCell id="5VB_H_C6yEA49fqEJ_je-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; line-height: 1.2;&quot;&gt;Arbeitsplatz reservieren&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;horizontal=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="40" width="570" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="wHxHnI73WqNq7-gCSU7N-6" value="S" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="60" width="120" height="80" as="geometry" />
+        <mxCell id="5VB_H_C6yEA49fqEJ_je-4" value="S" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="50" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
