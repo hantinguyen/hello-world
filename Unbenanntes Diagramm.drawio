@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-31T16:08:07.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="u4KYN7Kztt6YisbzR3PH" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-31T16:09:33.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="tdCIUoBrfVsWFQlRdHli" version="20.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Gruppe A">
-    <mxGraphModel dx="1847" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2059" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -46,13 +46,10 @@
             <mxPoint x="220" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VB_H_C6yEA49fqEJ_je-16" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5VB_H_C6yEA49fqEJ_je-7" target="5VB_H_C6yEA49fqEJ_je-8">
+        <mxCell id="5VB_H_C6yEA49fqEJ_je-16" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;startArrow=open;startFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5VB_H_C6yEA49fqEJ_je-7" target="5VB_H_C6yEA49fqEJ_je-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="230" as="sourcePoint" />
             <mxPoint x="500" y="180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="230" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="5VB_H_C6yEA49fqEJ_je-17" value="extend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5VB_H_C6yEA49fqEJ_je-16">
@@ -60,19 +57,14 @@
             <mxPoint y="19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5VB_H_C6yEA49fqEJ_je-22" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5VB_H_C6yEA49fqEJ_je-20" target="5VB_H_C6yEA49fqEJ_je-21">
+        <mxCell id="5VB_H_C6yEA49fqEJ_je-22" value="extend" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="5VB_H_C6yEA49fqEJ_je-20" target="5VB_H_C6yEA49fqEJ_je-21">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5VB_H_C6yEA49fqEJ_je-23" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5VB_H_C6yEA49fqEJ_je-22">
-          <mxGeometry x="-0.2273" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="5VB_H_C6yEA49fqEJ_je-20" value="E-Mail Bestätigung übermitteln" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="470" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="5VB_H_C6yEA49fqEJ_je-21" value="E-Mail durch Link bestätigen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="470" width="120" height="80" as="geometry" />
+          <mxGeometry x="490" y="470" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
